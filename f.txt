@@ -1,3 +1,6 @@
 f1
 f2
 error
+f7
+f8
+f9
